@@ -7,7 +7,8 @@ Matlab scripts to generate simulations and figures in:
 
 BENJAMIN U. HOFFMAN, MD, PHD
 
-Manuscript citation:
+Manuscript:
+> https://www.medrxiv.org/content/10.1101/2020.05.08.20095505v2
 
 ## Dependencies
 IMPORTANT: Tested on Matlab R2020a
