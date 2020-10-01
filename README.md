@@ -1,5 +1,5 @@
 # BUHoffman_COVID
-11-compartment COVID Model
+SEIRS-Based COVID Modelling
 
 Matlab scripts to generate simulations and figures in:
 
