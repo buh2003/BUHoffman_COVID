@@ -3,12 +3,12 @@
 
 Matlab scripts to generate simulations and figures in:
 
-**"Significant Relaxation of SARS-CoV-2-Targeted Non-Pharmaceutical Interventions Will Result in Profound Mortality: A New York State Modelling Study"**
+**"Significant Relaxation of SARS-CoV-2-Targeted Non-Pharmaceutical Interventions May Result in Profound Mortality: A New York State Modelling Study"**
 
 BENJAMIN U. HOFFMAN, MD, PHD
 
 Manuscript:
-> https://www.medrxiv.org/content/10.1101/2020.05.08.20095505v2
+> https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0239647
 
 ## Dependencies
 IMPORTANT: Tested on Matlab R2020a
